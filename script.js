@@ -24,5 +24,3 @@ do {
 } while (accessoPermesso === false);
 
 alert ('Benvenuto!')
-
-
